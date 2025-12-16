@@ -1,0 +1,8 @@
+{
+  "name": "NexusAI WMS",
+  "description": "An intelligent, schema-aware Warehouse Management System powered by Gemini AI for predictive inventory, smart storage, and automated moderation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
